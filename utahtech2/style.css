@@ -10,7 +10,7 @@
         font-family: Georgia, serif;
     }
 
-    h1 {
+    main h1 {
         line-height: 140%;
         padding: 0.5rem;
     }
@@ -27,7 +27,7 @@
         font-weight: bold;
 
     }
-    ut {
+    .ut {
         color: #Ba1C21;
         font-weight: bold;
     }
